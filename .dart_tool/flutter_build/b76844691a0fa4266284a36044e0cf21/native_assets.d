@@ -1,0 +1,1 @@
+ D:\\flutterprojects\\imccalculadora\\.dart_tool\\flutter_build\\b76844691a0fa4266284a36044e0cf21\\native_assets.yaml: 
